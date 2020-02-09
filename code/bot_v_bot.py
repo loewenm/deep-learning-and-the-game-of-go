@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-
 from __future__ import print_function
-
+# tag::bot_vs_bot[]
 from dlgo import agent
 from dlgo import goboard
 from dlgo import gotypes
